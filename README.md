@@ -1,10 +1,50 @@
 # Projets de la semaine prochaine
- * Un site pour ASRAC - Cantonné à lanalyse technique étant donné que nous n'avons que 3 jours à y consacrer dasn un premier temps
- * Un site de promo à réaliser en Wordpress
- * Un site pour le hackathon que nous comptong planifier fin Novembre - Début Décembre.
- 
- # A initier 
- * Un site pour le bowling d'Alma
- Nous ne les avons pas encore contactés. Mais ca porurait etre super interessant de leurs faire un site Wordpress. 
+Vous trouverez au sein des documents joints, une présentation des projets de la semaine. 
+L'objectif étant de pouvoir livrer d'ici Mercredi soir, une version aboutie du site. (A l'exception du projet ASRAC). 
+Répartissez-vous les taches grâce à la méthode SCRUM. 
+  
+# Les équipes
 
+## ASRAC
+### Team 1
+ * **Chef d'équipe : Ghaffar**
+ * Antoine
+ * Solene
+ * Gael
+ * Jennifer
+
+### Team 2
+ *  **Chef d'équipe : Valentin**
+ * Juliette
+ * Annie Line
+ * Abdul
+ * Jean-Christian
  
+## Site de Promo
+### Team 
+ *  **Chef d'équipe : Jonhattan**
+ * Julien
+ * Nabil
+ * Anna-angélique
+ 
+## Hackathon
+### Team 1
+ *  **Chef d'équipe : Stephane**
+ * Patrice
+### Team 2
+ *  **Chef d'équipe : Rebecca**
+ * Latifa
+ * Nicolas
+### Team 3
+ * **Chef d'équipe : Ronald**
+ * Chloé
+ * Miguel
+
+## Bowling
+### Team 1 - CMS
+ * **Chef d'équipe : Youness**
+ * Yoann
+### Team 2 - Scratch
+ * **Chef d'équipe : Lise**
+ * Floryan
+ * Christophe
