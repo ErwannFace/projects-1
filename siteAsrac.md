@@ -1,4 +1,4 @@
-# Site Web d'un Hackathon
+# Site Web d'ASRAC
 
 ## Description du projet
 
@@ -8,6 +8,7 @@ Leur besoin est donc :
 
 * Un site vitrine avec présentation du bureau et des membres. 
 * Publication d'articles réguliers
+* Chaque article doit pouvoir être tagué par plusieurs critères afin de permettre au fur et à mesure un rangement et une présentation claire pour l'utilisateur.
 * CRUD. Avec quelqu'un qui peut recevoir une formation pour son utilisation
 * Gestion d'utilisateurs qui puissent dire pour ou contre et pourquoi si ils le souhaitent. Par projet. 
 * Le minimum d'informations concernant ces utilisateurs sera :nom, prénom, age, mail, sexe, ville, région, pays. 
@@ -24,7 +25,7 @@ Le client n'a pas émis de souhait particulier concernant la technologie à util
 
 ## Rendu attendu
 
-D'ici Jeudi, il est attendu à ce que vous réalisiez l'UML de l'application. Nous vous invitons également à réaliser un BPML afin de visualiser l'ensemble de services à prévoir au sein de cette application. 
+D'ici Jeudi, il est attendu à ce que vous réalisiez l'UML de l'application. Nous vous invitons également à réaliser l'ensemble des scénarios (BPML?) afin de visualiser l'ensemble de services à prévoir au sein de cette application. 
 
 L'application sera par la suite implémentée par les apprenants de la formation de la code académie tachez donc de réaliser une documentation claire sur les spécifications techniques de l'application.
 
