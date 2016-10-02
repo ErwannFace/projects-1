@@ -9,7 +9,7 @@ Ce site web devra contenir les mêmes informations que leur site actuel.
 Néanmoins un travail d'UI/UX est à prévoir.
 
 ## Organisation du projet
-Deux équipes de 3 personnes travailleront sur le projet:
+Deux équipes de travailleront sur le projet:
  * Une équipe utilisant un CMS tel que Wordpress
  * Une équipe travaillant sur un projet "From Scratch"
  
