@@ -31,10 +31,12 @@ Répartissez-vous les taches grâce à la méthode SCRUM.
 ### Team 1
  *  **Chef d'équipe : Stephane**
  * Patrice
+ 
 ### Team 2
  *  **Chef d'équipe : Rebecca**
  * Latifa
  * Nicolas
+ 
 ### Team 3
  * **Chef d'équipe : Ronald**
  * Chloé
@@ -44,6 +46,7 @@ Répartissez-vous les taches grâce à la méthode SCRUM.
 ### Team 1 - CMS
  * **Chef d'équipe : Youness**
  * Yoann
+ 
 ### Team 2 - Scratch
  * **Chef d'équipe : Lise**
  * Floryan
