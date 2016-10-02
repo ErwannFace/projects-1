@@ -20,13 +20,12 @@ La date n'étant pas encore définie. Soit le WE du 26,27 Novembre, soit le WE d
 
 ## La technologie
 
-Après une veille concurrentielle, il est prévu de préparer une application "from scratch". 
-Vous êtes libres d'implémenter la solution comme vous le souhaitez. Nous souhaitons néanmoins que vous utilisiez du SASS ou du SLIM. 
+Après une veille concurrentielle, il vous est demandé de réaliser le site dy Hackathon. 
+Vous êtes libres d'implémenter la solution comme vous le souhaitez que ce soit en utilisant un CMS ou "From Scratch". S'il s'agit d'un développement from scratch, il vous est demandé d'utiliser du SASS ou du SLIM.
 
 Cette application se devra d'être responsive et dynamique. 
 
 ## L'organisation
 
-Deux équipes de 5 personnes devront travailler séparément sur ce projet. 
-Chaque équipe travaillera en méthode agile et devra proposer une application pour Jeudi. Vous devrez donc bien vous organiser afin de mener à bien cette tâche!
+Chaque équipe travaillera en méthode agile et devra proposer une application pour Mercredi soir. Vous devrez donc bien vous organiser afin de mener à bien cette tâche!
 
