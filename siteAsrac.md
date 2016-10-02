@@ -2,7 +2,7 @@
 
 ## Description du projet
 
-L'association solidaire action citoyenne souhaite créer un site web permettant aux citoyens de soumettre des projets, qu'ils soumettent à une communauté. Une fois le projet validé, l'association se charge de le faire remonter aux autorités de références. Pour le moment, l'association a une portée locale mais ils ont une vision globale. 
+L'association solidaire action citoyenne souhaite créer un site web permettant aux citoyens de soumettre des projets, qu'ils soumettent à une communauté. Une fois le projet validé, l'association se charge de le faire remonter aux autorités de référence. Pour le moment, l'association a une portée locale mais ils ont une vision globale. 
 
 Leur besoin est donc :
 
@@ -17,6 +17,7 @@ Leur besoin est donc :
 * Système de dialogue en direct avec un élu. 
 * Page pour les évenements.
 * Un forum. 
+
 L'association ne dispose pas de charte graphique et vous laisse libre concernant le design.
 
 ## La technologie
@@ -25,7 +26,10 @@ Le client n'a pas émis de souhait particulier concernant la technologie à util
 
 ## Rendu attendu
 
-D'ici Jeudi, il est attendu à ce que vous réalisiez l'UML de l'application. Nous vous invitons également à réaliser l'ensemble des scénarios (BPML?) afin de visualiser l'ensemble de services à prévoir au sein de cette application. 
+D'ici Jeudi, il est attendu à ce que vous réalisiez :
+ * Une maquette de l'application
+ * L'UML
+ * Les scénarios (BPML?)
 
 L'application sera par la suite implémentée par les apprenants de la formation de la code académie tachez donc de réaliser une documentation claire sur les spécifications techniques de l'application.
 
